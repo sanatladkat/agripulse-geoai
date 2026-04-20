@@ -1,0 +1,9 @@
+project:
+  name: "Agri-Pulse Maharashtra"
+  region: "maharashtra"
+parameters:
+  year_range: [2021,2022, 2023, 2024, 2025]
+  monsoon_start: "06-01"
+  monsoon_end: "12-31"
+  ndvi_threshold: 0.6
+  s1_smoothing_window: 5
